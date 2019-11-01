@@ -10,11 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise/Lab1/compare.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2449">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="-19">
+              <caret line="15" selection-start-line="15" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise/Lab2/postagger_STARTER_CODE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -37,6 +46,7 @@
         <option value="$PROJECT_DIR$/Lab2/SimpleCashPoint.py" />
         <option value="$PROJECT_DIR$/Lab2/user_interface.py" />
         <option value="$PROJECT_DIR$/Exercise/Lab1/compare.py" />
+        <option value="$PROJECT_DIR$/Exercise/Lab2/postagger_STARTER_CODE.py" />
       </list>
     </option>
   </component>
@@ -50,6 +60,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,11 +79,16 @@
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="Lab1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Text_Processing_U.She" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Processing_U.She" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,56 +117,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_cashpoint">
-    <configuration name="SimpleCashPoint" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Text_Processing_U.She" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/textprocessing/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab2" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab2/SimpleCashPoint.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_cashpoint" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Text_Processing_U.She" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/textprocessing/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab2" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab2/test_cashpoint.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.SimpleCashPoint" />
-      <item itemvalue="Python.test_cashpoint" />
-    </list>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -169,17 +135,18 @@
       <workItem from="1570440745704" duration="6000" />
       <workItem from="1572355605265" duration="1328000" />
       <workItem from="1572439587612" duration="17677000" />
+      <workItem from="1572618224442" duration="2605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26350000" />
+    <option name="totallyTimeSpent" value="28955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14041515" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14163615" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,10 +182,27 @@
     <entry file="file://$PROJECT_DIR$/Lab2/SimpleCashPoint.py" />
     <entry file="file://$PROJECT_DIR$/Lab2/test_cashpoint.py" />
     <entry file="file://$PROJECT_DIR$/Lab2/user_interface.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise/Lab2/training_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/Lab2/test_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise/Lab1/compare.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2449">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="-19">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/Lab2/postagger_STARTER_CODE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
         </state>
       </provider>
     </entry>
