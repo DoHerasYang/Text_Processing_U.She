@@ -18428,4 +18428,4 @@ Foreign/JJ Bonds/NNS Most/JJS foreign/JJ government/NN bond/NN prices/NNS rose/V
 Mark/NNP bonds/NNS rose/VBD about/RB 1\/8/CD point/NN ./.
 The/DT 7/CD %/NN bond/NN due/JJ October/NNP 1999/CD rose/VBD 0.12/CD to/TO 100.05/CD to/TO yield/VB 6.99/CD %/NN ,/, while/IN the/DT 6/CD 3\/4/CD %/NN notes/NNS due/JJ July/NNP 1994/CD rose/VBD 0.05/CD to/TO 97.75/CD to/TO yield/VB 7.32/CD %/NN ./.
 Britain/NNP 's/POS 11/CD 3\/4/CD %/NN bond/NN due/JJ 2003\/2007/CD rose/VBD 15\/32/CD to/TO 112/CD 21\/32/CD to/TO yield/VB 9.94/CD %/NN ,/, while/IN the/DT 11/CD 3\/4/CD %/NN notes/NNS due/JJ 1991/CD rose/VBD 1\/8/CD to/TO 98/CD 25\/32/CD to/TO yield/VB 12.78/CD %/NN ./.
-Japan/NNP 's/POS No./NN 111/CD 4.6/CD %/NN bond/NN due/JJ 1998/CD ended/VBD on/IN brokers/NNS '/POS screens/NNS at/IN 95.53/CD ,/, up/RB 0.31/CD ,/, to/TO yield/VB 5.355/CD %/NN ./.
+Japan/NNP 's/POS No./NN 111/CD 4.6/CD %/NN bond/NN due/JJ 1998/CD ended/VBD on/IN brokers/NNS '/POS screens/NNS at/IN 95.53/CD ,/, up/RB 0.31/CD ,/, to/TO yield/VB 5.355/CD %/NN ./. ''/''

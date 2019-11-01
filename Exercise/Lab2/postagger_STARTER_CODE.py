@@ -15,7 +15,6 @@ import sys, re, getopt
      > python postagger_STARTER_CODE.py -l traning_data.txt -t test_data.txt
 '''
 
-
 class Commandline:
     def __init__(self):
         opts, args = getopt.getopt(sys.argv[1:], 'hd:l:t:')
@@ -38,9 +37,21 @@ class Commandline:
         sys.exit()
 
     def read_file(self,opts):
+        summary_dict = dict()
         with open(opts['-l'],'r')  as train_file:
             for line in train_file:
-                print(line)
+                # Use the Regex to split the vocabulary
+                result = re.findall(
+                    r"(?:\w+)?[.']?[\w]+/\w+|[%'`.]{1,2}/\w+|[.,]/[.,]|\w+\\/\w+/\w+|",  # TODO: something wrong in there
+                    line)
+                print(result)
+                # for item in result:
+                #     # for each string(item) we should use the Regex to seperate them and divide them into different tokens
+                #     item_pre = re.findall(r"\w+(?!/)", item)
+                #     item_aft = re.findall(r"(?!/)\w+", item)
+
+
+
 
 
 if __name__ == '__main__':
