@@ -45,10 +45,10 @@ class Commandline:
                     r"(?:\w+)?[.']?[\w]+/\w+|[%'`.]{1,2}/\w+|[.,]/[.,]|\w+\\/\w+/\w+|",  # TODO: something wrong in there
                     line)
                 print(result)
-                # for item in result:
-                #     # for each string(item) we should use the Regex to seperate them and divide them into different tokens
-                #     item_pre = re.findall(r"\w+(?!/)", item)
-                #     item_aft = re.findall(r"(?!/)\w+", item)
+                for item in result:
+                    # for each string(item) we should use the Regex to seperate them and divide them into different tokens
+                    item_pre = re.findall(r"\w+(?!/)", item)
+                    item_aft = re.findall(r"(?!/)\w+", item)
 
 
 
