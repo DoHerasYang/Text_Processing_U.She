@@ -9,17 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise/Lab2/postagger_STARTER_CODE.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2824">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,12 +54,6 @@
               <item name="Text_Processing_U.She" type="b2602c69:ProjectViewProjectNode" />
               <item name="Text_Processing_U.She" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Text_Processing_U.She" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Text_Processing_U.She" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,17 +109,17 @@
       <workItem from="1572635742740" duration="103000" />
       <workItem from="1572636027486" duration="16000" />
       <workItem from="1573221976255" duration="3330000" />
+      <workItem from="1573226726503" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41310000" />
+    <option name="totallyTimeSpent" value="41327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14652015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14835165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -197,9 +181,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise/Lab2/postagger_STARTER_CODE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2824">
+        <state relative-caret-position="21">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/Lab3/mobydick.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73281" />
       </provider>
     </entry>
   </component>
