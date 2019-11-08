@@ -9,7 +9,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise/Lab3/lab3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+              <folding>
+                <element signature="e#182#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,6 +42,7 @@
         <option value="$PROJECT_DIR$/Exercise/Lab1/compare.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Exercise/Lab2/postagger_STARTER_CODE.py" />
+        <option value="$PROJECT_DIR$/Exercise/Lab3/lab3.py" />
       </list>
     </option>
   </component>
@@ -54,6 +68,12 @@
               <item name="Text_Processing_U.She" type="b2602c69:ProjectViewProjectNode" />
               <item name="Text_Processing_U.She" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_Processing_U.She" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Processing_U.She" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,16 +130,17 @@
       <workItem from="1572636027486" duration="16000" />
       <workItem from="1573221976255" duration="3330000" />
       <workItem from="1573226726503" duration="17000" />
+      <workItem from="1573226818330" duration="4250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41327000" />
+    <option name="totallyTimeSpent" value="45577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14835165" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15018316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -133,7 +154,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.501221" side_tool="true" weight="0.32861805" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.498779" visible="true" weight="0.32861805" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.498779" visible="true" weight="0.32861805" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -189,6 +210,23 @@
     <entry file="file://$PROJECT_DIR$/Exercise/Lab3/mobydick.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-73281" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/textprocessing/lib/python3.7/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="1600" selection-start-line="1600" selection-end-line="1600" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/Lab3/lab3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="e#182#204#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
