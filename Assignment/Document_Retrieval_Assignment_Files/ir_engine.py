@@ -15,6 +15,7 @@ OPTIONS:
 
 import sys, getopt, re
 from my_retriever import Retrieve
+import time
 
 #==============================================================================
 # Command line processing
@@ -146,7 +147,6 @@ class ResultStore:
 # MAIN
 
 if __name__ == '__main__':
-
     config = CommandLine()
     if config.exit:
         sys.exit(0)        
