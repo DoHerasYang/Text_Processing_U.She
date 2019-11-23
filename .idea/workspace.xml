@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee78cd57-7a49-47f2-9e6d-77cd52e0703b" name="Default Changelist" comment="" />
+    <list default="true" id="ee78cd57-7a49-47f2-9e6d-77cd52e0703b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/Lab2/training_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/ir_engine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2562">
-              <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+            <state relative-caret-position="179">
+              <caret line="152" column="52" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="52" />
               <folding>
                 <element signature="e#559#581#0" expanded="true" />
               </folding>
@@ -27,10 +31,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/my_retriever.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1176">
+            <state relative-caret-position="989">
               <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
             </state>
           </provider>
@@ -63,8 +67,8 @@
         <option value="$PROJECT_DIR$/Exercise/Lab2/postagger_STARTER_CODE.py" />
         <option value="$PROJECT_DIR$/Exercise/Lab3/lab3.py" />
         <option value="$PROJECT_DIR$/Assignment/ir_engine.py" />
-        <option value="$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/ir_engine.py" />
         <option value="$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/my_retriever.py" />
+        <option value="$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/ir_engine.py" />
       </list>
     </option>
   </component>
@@ -162,17 +166,18 @@
       <workItem from="1573653796901" duration="10000" />
       <workItem from="1573654030258" duration="5134000" />
       <workItem from="1573659852339" duration="305000" />
+      <workItem from="1574522224263" duration="2032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60135000" />
+    <option name="totallyTimeSpent" value="62167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16849817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -186,7 +191,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.501221" side_tool="true" weight="0.32861805" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.498779" weight="0.32861805" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.498779" visible="true" weight="0.32861805" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -233,9 +238,7 @@
     <entry file="file://$PROJECT_DIR$/Lab2/SimpleCashPoint.py" />
     <entry file="file://$PROJECT_DIR$/Lab2/test_cashpoint.py" />
     <entry file="file://$PROJECT_DIR$/Lab2/user_interface.py" />
-    <entry file="file://$PROJECT_DIR$/Exercise/Lab2/training_data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/Lab2/training_data.txt" />
     <entry file="file://$PROJECT_DIR$/Exercise/Lab2/test_data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -298,23 +301,23 @@
     <entry file="file://$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/index_nostoplist_withstemming.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/ir_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2562">
-          <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
-          <folding>
-            <element signature="e#559#581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/queries.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/my_retriever.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
+        <state relative-caret-position="989">
           <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Document_Retrieval_Assignment_Files/ir_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="152" column="52" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="52" />
+          <folding>
+            <element signature="e#559#581#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
