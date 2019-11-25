@@ -6,10 +6,6 @@ class Retrieve:
     index = None
     termWeighting = None
     doc_len = dict()  # The dictionary to record all the documents' length
-    # tr_candidate = dict()  # Retrieval all the documents 
-    # tr_candidate_all = dict() # for every doc_id and count
-    # tr_candidate_id = list()  # Retrial all the documents ID and store for use binary model candidate
-    # tr_query_count = list()  # To store the query count/frequency
 
     # Create new Retrieve object storing index and termWeighting scheme
     def __init__(self, index, termWeighting):
@@ -40,6 +36,10 @@ class Retrieve:
     # Method performing retrieval for specified query
     def forQuery(self, query):
         # Compare the index and query
+        # tr_candidate -- Retrieval all the documents 
+        # tr_candidate_all -- for every doc_id and count
+        # tr_candidate_id -- Retrial all the documents ID and store for use binary model candidate
+
         tr_candidate, tr_candidate_all, tr_candidate_id = self.getCandidate(query) 
         output = None
         # Firstly we should judge the function the program operate
