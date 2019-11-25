@@ -22,12 +22,20 @@ class Retrieve:
     def doc_length(self):
         # Extract all the items from the index file and sum the arisen number
         tempor_list = self.index.items()
-        for term,combination in tempor_list:
-            for doc_id,show_count in combination.items():
-                if doc_id in self.doc_len:
-                    self.doc_len[doc_id] = self.doc_len[doc_id] + show_count**2
-                else:
-                    self.doc_len[doc_id] = show_count**2
+        if self.termWeighting == 'binary':
+            for term,combination in tempor_list:
+                for doc_id,show_count in combination.items():
+                    if doc_id in self.doc_len:
+                        self.doc_len[doc_id] = self.doc_len[doc_id] + 1
+                    else:
+                        self.doc_len[doc_id] = 1
+        else:
+            for term,combination in tempor_list:
+                for doc_id,show_count in combination.items():
+                    if doc_id in self.doc_len:
+                        self.doc_len[doc_id] = self.doc_len[doc_id] + show_count**2
+                    else:
+                        self.doc_len[doc_id] = show_count**2
 
     # Method performing retrieval for specified query
     def forQuery(self, query):
@@ -48,7 +56,7 @@ class Retrieve:
     # We delete all the irreverent values and integrate the dictionary into a list(Count all the count)
     def getCandidate(self, query):
         # Get the two list to store the term of query and number of key vocabularly
-        queryIterm, qtermCount = zip(*query.items())
+        queryIterm = query.keys()
         get_candidate = {}
         get_candidate_all = {}
         get_candidate_id = []
@@ -89,9 +97,8 @@ class Retrieve:
         # Calculate all the value from the self.tr_documentid and convert it into the set to improve the efficiency
         # We have built the tr_candidate_id to store all the show index file and number is the occurance of query     
         # We need to calculate the number of occurance of index in set of query
-        set_candidate = set(list_candidate_id)
         score = 0        
-        for doc_id in set_candidate:
+        for doc_id in set(list_candidate_id):
             for each_term,each_value in (query.items()):
                 if each_term in all_candidate[doc_id]:
                     score = score + all_candidate[doc_id][each_term] * each_value
