@@ -12,8 +12,10 @@ OPTIONS:
 
 #==============================================================================
 # Importing
+
 import sys, getopt, re
 from my_retriever import Retrieve
+
 #==============================================================================
 # Command line processing
 
