@@ -1,18 +1,18 @@
-1Binary Result
-Time Used: 0.3186197280883789
+Binary Result
+Time Used: 0.31460094451904297
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
     Retrieved:        640
     Relevant:         796
-    Rel_Retr:          45
+    Rel_Retr:          44
 Prec/Rec/F across all queries:
     Precision:       0.07
     Recall:          0.06
     F-measure:       0.06
 
 Binary -p Result
-Time Used: 0.34416937828063965
+Time Used: 0.3603181838989258
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
@@ -25,20 +25,20 @@ Prec/Rec/F across all queries:
     F-measure:       0.08
 
 Binary -s Result
-Time Used: 0.12251782417297363
+Time Used: 0.12477588653564453
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
     Retrieved:        640
     Relevant:         796
-    Rel_Retr:          85
+    Rel_Retr:          84
 Prec/Rec/F across all queries:
     Precision:       0.13
     Recall:          0.11
     F-measure:       0.12
 
 Binary -s -p Result
-Time Used: 0.15077710151672363
+Time Used: 0.1555321216583252
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
@@ -51,59 +51,59 @@ Prec/Rec/F across all queries:
     F-measure:       0.14
 
 TF Result
-Time Used: 0.5157721042633057
+Time Used: 0.521420955657959
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
     Retrieved:        640
     Relevant:         796
-    Rel_Retr:          50
+    Rel_Retr:          49
 Prec/Rec/F across all queries:
     Precision:       0.08
     Recall:          0.06
     F-measure:       0.07
 
 TF -p Result
-Time Used: 0.5393178462982178
+Time Used: 0.5241258144378662
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
     Retrieved:        640
     Relevant:         796
-    Rel_Retr:          81
+    Rel_Retr:          82
 Prec/Rec/F across all queries:
     Precision:       0.13
     Recall:          0.10
     F-measure:       0.11
 
 TF -s Result
-Time Used: 0.1735689640045166
+Time Used: 0.18274426460266113
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
     Retrieved:        640
     Relevant:         796
-    Rel_Retr:         116
+    Rel_Retr:         108
 Prec/Rec/F across all queries:
-    Precision:       0.18
-    Recall:          0.15
-    F-measure:       0.16
+    Precision:       0.17
+    Recall:          0.14
+    F-measure:       0.15
 
 TF -s -p Result
-Time Used: 0.2202599048614502
+Time Used: 0.2126448154449463
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
     Retrieved:        640
     Relevant:         796
-    Rel_Retr:         137
+    Rel_Retr:         136
 Prec/Rec/F across all queries:
     Precision:       0.21
     Recall:          0.17
     F-measure:       0.19
 
 TFIDF Result
-Time Used: 0.5982139110565186
+Time Used: 0.55979323387146
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
@@ -116,7 +116,7 @@ Prec/Rec/F across all queries:
     F-measure:       0.16
 
 TFIDF -p Result
-Time Used: 0.5417468547821045
+Time Used: 0.5199458599090576
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
@@ -129,7 +129,7 @@ Prec/Rec/F across all queries:
     F-measure:       0.20
 
 TFIDF -s Result
-Time Used: 0.34759092330932617
+Time Used: 0.33295321464538574
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:
@@ -142,7 +142,7 @@ Prec/Rec/F across all queries:
     F-measure:       0.18
 
 TFIDF -s -p Result
-Time Used: 0.3038179874420166
+Time Used: 0.2857539653778076
 -------------------------------------------
 Total number of queries: 64
 Total number of documents over all queries:

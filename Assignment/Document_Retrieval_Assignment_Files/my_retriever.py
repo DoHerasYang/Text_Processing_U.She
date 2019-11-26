@@ -116,8 +116,7 @@ class Retrieve:
         # First we need to calculate value of Inverse document frequency(IDF) value
         IDFValue = {}
         for term,collection in self.index.items():
-            IDFValue[term] = math.log(len(self.doc_len)/len(collection))
-        
+            IDFValue[term] = math.log(len(self.doc_len)/len(collection))     
         # Next we should create two new data-structure(dic()) to store the IDF and score
         # For the IDF value for each doc_id
         Results = dict()
