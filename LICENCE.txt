@@ -3,7 +3,7 @@ MIT License
 Copyright (c) [2019] [The University of Sheffield The Department of Computer Science]
 Copyright (c) [2019] [Mark Hepple]
 
-Education purposr only
+Education purpose only
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
