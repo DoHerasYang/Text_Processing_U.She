@@ -57,6 +57,7 @@ $ source activate <YOUR Environment Name>
 
 # 2.Repository File Structure
 
+```
 .
 ├── Assignment
 │   ├── Document_Retrieval_Assignment_1920.pdf
@@ -122,6 +123,7 @@ $ source activate <YOUR Environment Name>
 │   ├── NLP-wordcloud.png
 │   └── University-of-Sheffield-2010.jpg
 └── tree.txt
+```
 
 # 3.Illustration
 
