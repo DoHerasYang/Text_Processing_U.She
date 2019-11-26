@@ -1,0 +1,156 @@
+1Binary Result
+Time Used: 0.3186197280883789
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          45
+Prec/Rec/F across all queries:
+    Precision:       0.07
+    Recall:          0.06
+    F-measure:       0.06
+
+Binary -p Result
+Time Used: 0.34416937828063965
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          59
+Prec/Rec/F across all queries:
+    Precision:       0.09
+    Recall:          0.07
+    F-measure:       0.08
+
+Binary -s Result
+Time Used: 0.12251782417297363
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          85
+Prec/Rec/F across all queries:
+    Precision:       0.13
+    Recall:          0.11
+    F-measure:       0.12
+
+Binary -s -p Result
+Time Used: 0.15077710151672363
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         104
+Prec/Rec/F across all queries:
+    Precision:       0.16
+    Recall:          0.13
+    F-measure:       0.14
+
+TF Result
+Time Used: 0.5157721042633057
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          50
+Prec/Rec/F across all queries:
+    Precision:       0.08
+    Recall:          0.06
+    F-measure:       0.07
+
+TF -p Result
+Time Used: 0.5393178462982178
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          81
+Prec/Rec/F across all queries:
+    Precision:       0.13
+    Recall:          0.10
+    F-measure:       0.11
+
+TF -s Result
+Time Used: 0.1735689640045166
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         116
+Prec/Rec/F across all queries:
+    Precision:       0.18
+    Recall:          0.15
+    F-measure:       0.16
+
+TF -s -p Result
+Time Used: 0.2202599048614502
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         137
+Prec/Rec/F across all queries:
+    Precision:       0.21
+    Recall:          0.17
+    F-measure:       0.19
+
+TFIDF Result
+Time Used: 0.5982139110565186
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         114
+Prec/Rec/F across all queries:
+    Precision:       0.18
+    Recall:          0.14
+    F-measure:       0.16
+
+TFIDF -p Result
+Time Used: 0.5417468547821045
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         146
+Prec/Rec/F across all queries:
+    Precision:       0.23
+    Recall:          0.18
+    F-measure:       0.20
+
+TFIDF -s Result
+Time Used: 0.34759092330932617
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         132
+Prec/Rec/F across all queries:
+    Precision:       0.21
+    Recall:          0.17
+    F-measure:       0.18
+
+TFIDF -s -p Result
+Time Used: 0.3038179874420166
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         170
+Prec/Rec/F across all queries:
+    Precision:       0.27
+    Recall:          0.21
+    F-measure:       0.24
+
