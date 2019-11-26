@@ -1,22 +1,29 @@
 Text_Processing_U.She
 =========================
-**Text Processing which is based on the class in the University of Sheffield.** 
-
-Copyright@
-
-[toc]
-
-
+**This repository is based on the Text Processing postgraduate class in the University of Sheffield.** 
+---
 
 <img src="./pictures/NLP-wordcloud.png" alt="logo" style="zoom: 50%;" />
+![](./pictures/University-of-Sheffield-2010.jpg) 
 
-![](/Users/doheras/Desktop/Text Processing/Text_Processing_U.She/pictures/University-of-Sheffield-2010.jpg) 
+Table of Contents
+=================
+
+   * [Text_Processing_U.She](#text_processing_ushe)
+   * [1.Enviroment Configuration](#1enviroment-configuration)
+      * [1.1 How to quickly import the Anaconda environment](#11-how-to-quickly-import-the-anaconda-environment)
+      * [1.2 Build Your Customized Jupyter Notebook Env by Anaconda](#12-build-your-customized-jupyter-notebook-env-by-anaconda)
+   * [2.Repository File Structure](#2repository-file-structure)
+   * [3.Illustration](#3illustration)
+---
+
+
 
 # 1.Enviroment Configuration
 
 ## 1.1 How to quickly import the Anaconda environment
 
-I really do recommand you to build a new env for python to learn this Text Processing lesson because of not changing the 
+I really do recommand you to build a new env for python to learn this Text Processing lesson because of not changing the original(base) python environment and convenience of package management.
 
 1. Move to your directory where the `$directory` you want to install and copy the `textprocessing.yml` and `requirements.txt` from the `anaconda` folder into your current terminal path. Then, follow the instruction below: 
 ```shell
@@ -31,7 +38,7 @@ $ conda remove --name textprocessing --all
 ```
 
 
-##1.2 Build Your Customized Jupyter Notebook Env by Anaconda
+## 1.2 Build Your Customized Jupyter Notebook Env by Anaconda
 
 1. Install ipykernel on your env
 
@@ -127,7 +134,10 @@ $ source activate <YOUR Environment Name>
 
 # 3.Illustration
 
-1. The folder named `<anaconda>` contains all the anaconda and pip encironment information
+1. The folder named `<anaconda>` contains all the anaconda and pip encironment information, the user can download it and follow the instruction at the first section
+2. The folder named `Exercise` contains all the exercises from the text processing lessons and materials.
+3. The folder named `Assignemnt` contains all the assignment materials and solution for Information Retrieval.
+4. The folder named `Slides` contains all the slides from Pro. Mark Hepple at University of Sheffield.
 
 
 
