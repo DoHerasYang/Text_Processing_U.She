@@ -4,6 +4,7 @@
 
 ## 1. File Structure
 
+```
 |-- Text_Processing_U.She
     |-- .DS_Store
     |-- Document_Retrieval_Assignment_1920.pdf
@@ -42,6 +43,7 @@
         |-- queries_withstoplist_withstemming.txt
         |-- .ipynb_checkpoints
             |-- Untitled-checkpoint.ipynb
+```
 
 ## 2. Application
 

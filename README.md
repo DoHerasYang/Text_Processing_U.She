@@ -4,7 +4,8 @@ Text_Processing_U.She
 ---
 
 <img src="./pictures/NLP-wordcloud.png" alt="logo" style="zoom: 50%;" />
-![](./pictures/University-of-Sheffield-2010.jpg) 
+
+![University logo](./pictures/University-of-Sheffield-2010.jpg) 
 
 Table of Contents
 =================
