@@ -12,9 +12,10 @@ OPTIONS:
 
 #==============================================================================
 # Importing
+
 import sys, getopt, re
-import time
 from my_retriever import Retrieve
+
 #==============================================================================
 # Command line processing
 
@@ -145,7 +146,7 @@ class ResultStore:
 # MAIN
 
 if __name__ == '__main__':
-    start = time.time()
+
     config = CommandLine()
     if config.exit:
         sys.exit(0)        
@@ -153,11 +154,11 @@ if __name__ == '__main__':
     retrieve = Retrieve(index, config.termWeighting)
     queries = Queries(config.queriesFile)
     allResults = ResultStore(config.outfile)
+
     for qid in queries.qids():
         query = queries.getQuery(qid)
         results = retrieve.forQuery(query)
         allResults.store(qid, results)
+
     allResults.output()
-    elapsed = (time.time() - start)
-    print("Time Used:",elapsed)
 

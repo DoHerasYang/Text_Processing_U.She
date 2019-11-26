@@ -12,7 +12,7 @@ import sys, re, getopt
 # Command line options handling, and help
 # For the Command Line format:
 '''
-     > python postagger_STARTER_CODE.py -l training_data.txt -t test_data.txt
+     > python postagger_STARTER_CODE.py -l ./POSTAG_DATA/training_data.txt -t ./POSTAG_DATA/test_data.txt
 '''
 
 class Training:
