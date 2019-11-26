@@ -22,7 +22,7 @@ Table of Contents
 
 
 
-# 1.Enviroment Configuration
+# 1.Environment Configuration
 
 ## 1.1 How to quickly import the Anaconda environment
 
