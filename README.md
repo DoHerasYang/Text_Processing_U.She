@@ -3,9 +3,11 @@ Text_Processing_U.She
 **This repository is based on the Text Processing postgraduate class in the University of Sheffield.** 
 ---
 
-<img src="./pictures/NLP-wordcloud.png" alt="logo" style="zoom: 50%;" />
+<img src="./pictures/NLP-wordcloud.png" alt="logo" style="zoom: 33%;" />
 
-![University logo](./pictures/University-of-Sheffield-2010.jpg) 
+<img src="./pictures/University-of-Sheffield-2010.jpg" alt="University logo" style="zoom: 40.3%;" />
+
+ 
 
 Table of Contents
 =================
