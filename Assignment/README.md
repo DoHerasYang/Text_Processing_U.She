@@ -5,8 +5,7 @@
 ## 1. File Structure
 
 ```
-|-- Text_Processing_U.She
-    |-- .DS_Store
+|-- Assignment
     |-- Document_Retrieval_Assignment_1920.pdf
     |-- README.md
     |-- Document_Retrieval_Assignment_Files
